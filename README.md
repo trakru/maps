@@ -1,7 +1,7 @@
-[Rendered Map View](https://spiced-mixed-dodo.glitch.me/)
-
 Map Visualization of FCC-approved 3.5 Ghz band exceptions
 =================
+
+[**Rendered Map View](https://spiced-mixed-dodo.glitch.me/)
 
 A map view of the protected fixed satellite service (FSS) Earth Stations in the US
 
