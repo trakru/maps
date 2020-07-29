@@ -1,22 +1,21 @@
-Map Visualization of FCC-approved 3.5 Ghz band exceptions
+Repository of all map visualizations
 =================
 
-[Rendered Map View](https://spiced-mixed-dodo.glitch.me/)
+Map view of all currently posted maps. this readme will be updated once maps are posted to the blog
 
-A map view of the protected fixed satellite service (FSS) Earth Stations in the US. [More information](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/35-ghz-band-protected-fixed-satellite-service-fss-earth)
-
-Details
+Links Below:
 ------------
-Registered FSS earth stations in the 3600-3700 MHz band may register for protection from Citizens Broadband Radio Service users in accordance with Part 96 of the Commission’s rules. 
-FSS earth stations in the 3700-4200 MHZ band used for telemetry, tracking, and command (TT&C) operations (per §96.17(b)) may register as protected earth stations in accordance with the Commission’s rules.
+1. N/a
 
-### Data From API
+### API References
 
-FCC provides an API to download FSS Earth Station Antenna Registration System data
+1. N/A
 
 ### Visualization Tools
 
-this visualization has been done via Mapbox GL JS & the hosting is powered by Glitch
+Credits to
+1. Mapobox GL JS
+2. glitch.me
 
 ### Questions/Comments
 
