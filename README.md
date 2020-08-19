@@ -14,7 +14,7 @@ Links Below:
 ### Visualization Tools
 
 Credits to
-1. Mapobox GL JS
+1. Mapbox GL JS
 2. glitch.me
 
 ### Questions/Comments
